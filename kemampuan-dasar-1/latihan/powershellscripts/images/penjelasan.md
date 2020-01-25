@@ -1,1 +1,1 @@
-Rincian kumpulan perintah dengan gambarnya
+Rincian gambar kumpulan perintah cmd dan batch file dan Powershell script.
