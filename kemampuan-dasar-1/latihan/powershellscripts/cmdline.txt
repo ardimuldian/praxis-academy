@@ -1,0 +1,11 @@
+Latihan Perintah Command Line batch file dan Powershell script
+
+1.perintah dasar membuat folder pada direktori (mkdir)
+  pada cmd masuk ke drive d:
+  setelah masuk d kemudian pada D:\>mkdir belajar-praxis
+  selesai folder praxis sudah ditambahkan ke drive d
+2.perintah mematikan program menggunakan tskill(taskkill)
+  pertama pada cmd kita ketik tasklist bertujuan untuk mengetahui program apa yang sedang berjalan
+  pada list task yang ingin saya matikan adalah autodesk application manager services dengan pid 1872
+  kemudian ketik tskill 1872
+  selesai
