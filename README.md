@@ -24,7 +24,52 @@ attrib berfungsi untuk melihat atau untuk merubah atribut pada file atau pada fo
 
 ![attribut](https://user-images.githubusercontent.com/60251611/73122335-13fa7400-3fb6-11ea-9474-0b8913bf5ca5.png)
 
-5.
+5.checkdisk
+chkdsk merupakan perintah commandline untuk mengetahui details rincian volume drive pada label seperti tipe disk dan
+sizenya
+
+![checkdisk](https://user-images.githubusercontent.com/60251611/73122495-4dcc7a00-3fb8-11ea-8a26-375bb1dc3469.png)
+
+6.cmd
+cmd untuk mengetahui dari versi commandline kita
+
+
+7.date
+untuk mengetahui tanggal pada laptop/pc yang digunakan
+
+
+8.help
+panduan penggunaan cmd
+
+9.ipconfig
+untuk mengetahui address ip kita
+
+10.ping
+untuk mengetest jaringan
+
+11.tasklist
+berfungsi menampilkan daftar aplikasi dan service yang sedang berjalan di windows.
+
+12.ver
+digunakan untuk menampilkan version information.
+
+13.systeminfo
+menampilkan daftar system configuration.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
 
 
 
