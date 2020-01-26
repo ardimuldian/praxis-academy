@@ -60,3 +60,24 @@ membuat, mendaftar, dan menghapus nama pengguna dan kata sandi atau kredensial y
 
 20.chkntfs
 menampilkan atau memodifikasi pemeriksaan disk otomatis saat komputer dimulai. Jika digunakan tanpa opsi, chkntfs menampilkan sistem file dari volume yang ditentukan. Jika pemeriksaan file otomatis dijadwalkan untuk berjalan, chkntfs menampilkan apakah volume yang ditentukan kotor atau dijadwalkan untuk diperiksa pada saat berikutnya komputer dijalankan.
+
+powershell
+
+1.buatlah folder Scripts letakkan pada c:
+
+2.buat file IniTugasku.ps1
+
+3.etikkan Write-Host "katakatanya" pada file IniTugasku.ps1 lalu save
+
+4.ketik & "C:\Scripts\IniTugasku.ps1"
+
+5.ketika powershell tidak mengallow kan file tersebut rubah terlebih dahulu melalui Set-ExecutionPolicy tekan y (yes)
+
+6.ketik kembali & "C:\Scripts\IniTugasku.ps1"
+sekarang powershell akan menampilkan isi kalimat pada file tersebut
+
+
+
+
+
+
