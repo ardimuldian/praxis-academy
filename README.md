@@ -124,7 +124,29 @@ menampilkan atau memodifikasi pemeriksaan disk otomatis saat komputer dimulai. J
 
 ![chkntfs](https://user-images.githubusercontent.com/60251611/73129592-3a51fb00-401a-11ea-9716-121de0b930c8.png)
 
+membuat file ps1 pada powershell
 
+langkah 1
+
+![lang1](https://user-images.githubusercontent.com/60251611/73131246-3635d580-403a-11ea-85b6-6de9b2017cb2.png)
+
+langkah 2
+
+![lang2](https://user-images.githubusercontent.com/60251611/73131251-4cdc2c80-403a-11ea-8305-94a997a084df.png)
+
+langkah 3
+
+![lang3](https://user-images.githubusercontent.com/60251611/73131256-62e9ed00-403a-11ea-8f6f-1f1753b8ee4b.png)
+
+langkah 4
+
+![lang4](https://user-images.githubusercontent.com/60251611/73131264-81e87f00-403a-11ea-8143-892f36671ba1.png)
+
+langkah 5
+
+langkah 6
+
+![lang6](https://user-images.githubusercontent.com/60251611/73131274-b6f4d180-403a-11ea-9783-e7f10c9a2f9c.png)
 
 
 
