@@ -56,9 +56,13 @@ panduan penggunaan cmd
 
 untuk mengetahui address ip kita
 
+![ipconfig](https://user-images.githubusercontent.com/60251611/73129683-f233d800-401b-11ea-88ec-7eb372210b99.png)
+
 10.ping
 
 untuk mengetest jaringan
+
+![ping](https://user-images.githubusercontent.com/60251611/73129690-1394c400-401c-11ea-8502-3ffc0a27bb5c.png)
 
 11.tasklist
 
@@ -92,7 +96,7 @@ merubah warna cmd.
 
 17.echo
 
-aktif dan nonakktifkan pesan echo pada cmd.
+aktif dan nonaktifkan pesan echo pada cmd.
 
 ![echo](https://user-images.githubusercontent.com/60251611/73129666-a41ed480-401b-11ea-8b4b-f9ab56995e6c.png)
 
