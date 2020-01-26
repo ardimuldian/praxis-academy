@@ -144,6 +144,8 @@ langkah 4
 
 langkah 5
 
+![lang5](https://user-images.githubusercontent.com/60251611/73131370-641c1980-403c-11ea-8aea-195485f0a8e7.png)
+
 langkah 6
 
 ![lang6](https://user-images.githubusercontent.com/60251611/73131274-b6f4d180-403a-11ea-9783-e7f10c9a2f9c.png)
