@@ -150,6 +150,14 @@ langkah 6
 
 ![lang6](https://user-images.githubusercontent.com/60251611/73131274-b6f4d180-403a-11ea-9783-e7f10c9a2f9c.png)
 
+membuat file.ps1 di powerscripts
+
+1.langkah 1
+
+buat folder Scripts
+
+![langPow1](https://user-images.githubusercontent.com/60251611/73134822-bc1f4400-406d-11ea-85a0-4a3edb2cd7c9.png)
+
 
 
 
