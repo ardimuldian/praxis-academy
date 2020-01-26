@@ -50,6 +50,8 @@ untuk mengetahui tanggal pada laptop/pc yang digunakan
 
 panduan penggunaan cmd
 
+![help](https://user-images.githubusercontent.com/60251611/73129668-bac52b80-401b-11ea-8142-c39de1371383.png)
+
 9.ipconfig
 
 untuk mengetahui address ip kita
@@ -86,18 +88,25 @@ menampilkan dan mengubah entri dalam cache Address Resolution Protocol (ARP).
 
 merubah warna cmd.
 
+![color](https://user-images.githubusercontent.com/60251611/73129655-73d73600-401b-11ea-93ee-7104270fad45.png)
+
 17.echo
 
 aktif dan nonakktifkan pesan echo pada cmd.
+
+![echo](https://user-images.githubusercontent.com/60251611/73129666-a41ed480-401b-11ea-8b4b-f9ab56995e6c.png)
 
 18.hostname
 
 menampilkan bagian nama host dari nama komputer lengkap dari komputer.
 
+![hostnname](https://user-images.githubusercontent.com/60251611/73129677-d9c3bd80-401b-11ea-9edc-e30c4fedf31e.png)
+
 19.cmdkey
 
 membuat, mendaftar, dan menghapus nama pengguna dan kata sandi atau kredensial yang tersimpan.
 
+![cmdkey](https://user-images.githubusercontent.com/60251611/73129644-5904c180-401b-11ea-823b-d78837150f10.png)
 
 20.chkntfs
 
