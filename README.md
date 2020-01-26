@@ -68,13 +68,19 @@ untuk mengetest jaringan
 
 berfungsi menampilkan daftar aplikasi dan service yang sedang berjalan di windows.
 
+![tasklist](https://user-images.githubusercontent.com/60251611/73129729-21971480-401d-11ea-8058-a389044a8581.png)
+
 12.ver
 
 digunakan untuk menampilkan version information.
 
+![ver](https://user-images.githubusercontent.com/60251611/73129733-3673a800-401d-11ea-9310-0c59448d577e.png)
+
 13.systeminfo
 
 menampilkan daftar system configuration.
+
+![systeminfo](https://user-images.githubusercontent.com/60251611/73129725-0926fa00-401d-11ea-8a2d-5e8030b9ecdd.png)
 
 14.cls
 
