@@ -56,19 +56,27 @@ digunakan untuk menampilkan version information.
 13.systeminfo
 menampilkan daftar system configuration.
 
-14.
+14.cls
+perintah Untuk membersihkan layar CMD.
 
-15.
+15.arp
+menampilkan dan mengubah entri dalam cache Address Resolution Protocol (ARP).
 
-16.
+16.color
+merubah warna cmd.
 
-17.
+17.echo
+aktif dan nonakktifkan pesan echo pada cmd.
 
-18.
+18.hostname
+menampilkan bagian nama host dari nama komputer lengkap dari komputer.
 
-19.
+19.cmdkey
+membuat, mendaftar, dan menghapus nama pengguna dan kata sandi atau kredensial yang tersimpan.
 
-20.
+
+20.chkntfs
+menampilkan atau memodifikasi pemeriksaan disk otomatis saat komputer dimulai. Jika digunakan tanpa opsi, chkntfs menampilkan sistem file dari volume yang ditentukan. Jika pemeriksaan file otomatis dijadwalkan untuk berjalan, chkntfs menampilkan apakah volume yang ditentukan kotor atau dijadwalkan untuk diperiksa pada saat berikutnya komputer dijalankan.
 
 
 
