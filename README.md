@@ -39,6 +39,7 @@ sizenya
 
 cmd untuk mengetahui dari versi commandline kita
 
+![cmd](https://user-images.githubusercontent.com/60251611/73129572-fc54d700-4019-11ea-927b-b9be1ddabc1e.png)
 
 7.date
 
@@ -73,9 +74,13 @@ menampilkan daftar system configuration.
 
 perintah Untuk membersihkan layar CMD.
 
+![cls](https://user-images.githubusercontent.com/60251611/73129600-61103180-401a-11ea-86be-b3531d1fc960.png)
+
 15.arp
 
 menampilkan dan mengubah entri dalam cache Address Resolution Protocol (ARP).
+
+![arp](https://user-images.githubusercontent.com/60251611/73129581-155d8800-401a-11ea-8bc7-509a7561b361.png)
 
 16.color
 
@@ -97,6 +102,8 @@ membuat, mendaftar, dan menghapus nama pengguna dan kata sandi atau kredensial y
 20.chkntfs
 
 menampilkan atau memodifikasi pemeriksaan disk otomatis saat komputer dimulai. Jika digunakan tanpa opsi, chkntfs menampilkan sistem file dari volume yang ditentukan. Jika pemeriksaan file otomatis dijadwalkan untuk berjalan, chkntfs menampilkan apakah volume yang ditentukan kotor atau dijadwalkan untuk diperiksa pada saat berikutnya komputer dijalankan.
+
+![chkntfs](https://user-images.githubusercontent.com/60251611/73129592-3a51fb00-401a-11ea-9716-121de0b930c8.png)
 
 
 
