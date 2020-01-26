@@ -150,16 +150,41 @@ langkah 6
 
 ![lang6](https://user-images.githubusercontent.com/60251611/73131274-b6f4d180-403a-11ea-9783-e7f10c9a2f9c.png)
 
-membuat file.ps1 di powerscripts
+menggunakan powershell ISE
 
 1.langkah 1
 
-buat folder Scripts
+mengetahui LastBootUpTime
 
 ![langPow1](https://user-images.githubusercontent.com/60251611/73134822-bc1f4400-406d-11ea-85a0-4a3edb2cd7c9.png)
 
+2.langkah 2
 
+mengetahui detail servername dan detail date & time
 
+![langPow2](https://user-images.githubusercontent.com/60251611/73134841-f8eb3b00-406d-11ea-929a-099cdd41ffcc.png)
+
+3.langkah 3
+
+megetahui detail pengguna servername terakhir digunakan
+
+![langPow3](https://user-images.githubusercontent.com/60251611/73134855-13251900-406e-11ea-999b-73cd0431f3b0.png)
+
+4.langkah 4
+
+mengetahui servername yang akan digunakan dan terakhir booting
+
+![langPow4](https://user-images.githubusercontent.com/60251611/73134861-29cb7000-406e-11ea-9da8-82f00b3af938.png)
+
+menggunakan batch untuk mengaktifkan powershell
+
+masukkan kode pada .bat =
+
+@ECHO OFF
+PowerShell.exe -Command "& '%~dpn0.ps1'"
+PAUSE
+
+![bat1](https://user-images.githubusercontent.com/60251611/73134872-3c45a980-406e-11ea-8750-5eff8f512973.png)
 
 
 
