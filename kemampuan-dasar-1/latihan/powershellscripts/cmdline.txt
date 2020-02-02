@@ -113,5 +113,10 @@ param(
 
 jalankan  help C:\Get-LastBootUpTime.ps1
 
+menggunakan batch untuk mengaktifkan powershell
+
+masukkan kode pada .bat =
+
+@ECHO OFF PowerShell.exe -Command "& '%~dpn0.ps1'" PAUSE
 
 
