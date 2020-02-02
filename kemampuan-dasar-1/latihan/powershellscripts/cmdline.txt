@@ -76,6 +76,17 @@ powershell
 6.ketik kembali & "C:\Scripts\IniTugasku.ps1"
 sekarang powershell akan menampilkan isi kalimat pada file tersebut
 
+mengetahui LastBootUpTime
+
+open PowerShell ISE
+
+ketikkan 
+
+Get-WmiObject -Class Win32_OperatingSystem –ComputerName localhost |
+
+Select-Object -Property CSName,LastBootUpTime
+
+jalankan maka akan tampil detail LastBootUpTime
 
 
 
