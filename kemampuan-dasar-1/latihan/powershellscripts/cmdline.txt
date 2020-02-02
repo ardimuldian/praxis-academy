@@ -89,6 +89,29 @@ Select-Object -Property CSName,LastBootUpTime
 jalankan maka akan tampil detail LastBootUpTime
 
 
+mengetahui detail servername dan detail date & time
+
+open PowerShell ISE
+
+ketikkan 
+
+Select-Object -Property CSName,@{n=”Last Booted”;
+
+e={[Management.ManagementDateTimeConverter]::ToDateTime($_.LastBootUpTime)}}
+
+simpan pada c: dengan nama Get-LastBootUpTime.ps1
+
+jalanan C:\Get-LastBootUpTime.ps1
+
+mengetahui servername yang akan digunakan dan terakhir booting
+
+masukkan kode
+
+param(
+[string]$ComputerName
+)
+
+jalankan  help C:\Get-LastBootUpTime.ps1
 
 
 
