@@ -1,0 +1,16 @@
+pada ren.bat disini saya menggunakan code sebagai berikut
+
+Get-ChildItem -Path D:\Praxis -Recurse -ErrorAction SilentlyContinue -Filter *.java |
+  Where-Object { $_.Extension -eq '.java' }
+  
+  Write-host "Would you like to rename file java? (Default is No)" -ForegroundColor Yellow
+  $Readhost = Read-Host " ( y / n ) " 
+    Switch ($ReadHost)  
+    { 
+       Y {Write-host "Yes, Rename File to Default FileBaru +1"; Get-ChildItem *.java | ForEach-Object -Begin { $count = 1 } -Process { Rename-Item $_ -NewName "FileBaru_$count.java"; $count++ } }
+       N {Write-Host "No, File Default";} 
+     } 
+	 
+	jadi kode ini digunakan untuk mencari semua ekstensi .java pada folder Praxis kemudian file.java dapat direname otomatis dengan nama FileBaru_+ 1
+  
+  +1 disini adalah nilai count atau jumlah file java yang ada di folder Praxis
