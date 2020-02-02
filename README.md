@@ -193,3 +193,9 @@ PAUSE
 
 
 Teknis-Dasar-2:Source-Code-Management-Git-dan-GitHub
+
+menamai file java menggunakan .bat
+
+disini nama file java saya akan otamatis bernama FileBaru_Count(jumlah nama file.java +1)
+
+![renfile](https://user-images.githubusercontent.com/60251611/73611487-d7adc000-4614-11ea-9465-ecbcb62920a8.png)
